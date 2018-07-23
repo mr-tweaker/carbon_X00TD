@@ -1,0 +1,12 @@
+[
+  {
+   "repository" : "ShivamKumarJha/android_kernel_asus_sdm660",
+   "target_path": "kernel/asus/sdm660",
+   "branch"     : "lineage-15.1"
+ },
+ {
+   "repository" : "ShivamKumarJha/android_vendor_asus",
+   "target_path": "vendor/asus",
+   "branch"     : "lineage-15.1"
+ }
+]
