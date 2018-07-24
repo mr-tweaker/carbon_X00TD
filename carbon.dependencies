@@ -1,12 +1,12 @@
 [
-  {
-   "repository" : "ShivamKumarJha/android_kernel_asus_sdm660",
-   "target_path": "kernel/asus/sdm660",
-   "branch"     : "lineage-15.1"
+ {
+    "repository" : "CarbonROM/android_kernel_asus_sdm660",
+    "target_path": "kernel/asus/sdm660"
  },
  {
-   "repository" : "ShivamKumarJha/android_vendor_asus",
-   "target_path": "vendor/asus",
-   "branch"     : "lineage-15.1"
- }
+    "remote"     : "lineage",
+    "repository" : "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision"   : "lineage-15.1"
+  }
 ]
